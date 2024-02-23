@@ -1,0 +1,9 @@
+@import url(' ');
+
+body {
+    background-color: darkmagenta; linear-gradient(45deg, #ffa2c7 0%,#6d0a3b 100%)
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+}
