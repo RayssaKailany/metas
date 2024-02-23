@@ -1,10 +1,10 @@
-@import url(' ');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap')
 
 body {
     align-items: center;
-    background: linear-gradient(45deg, #ffa2c7 0%,#6d0a3b 100%);
+    background: linear-gradient(Purple);
   }
 
 li {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Dancing+Script;
 }
