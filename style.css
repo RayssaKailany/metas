@@ -17,3 +17,9 @@
     font-family: 'Montserrat', sans-serif;
     min-height: 100vh;
   }
+
+  h1 {
+    color: var(--branca);
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
