@@ -1,1 +1,23 @@
-
+:root {
+    --cinza: rgb(185, 185, 185), 170, 170);
+    --vermelha: rgb(200, 4, 240);
+    --vermelha-escura: #6c2080;
+    --branca: #fff;
+    --luz: rgb(255, 0, 191);
+  }
+  
+  body {
+    align-items: center;
+    background: linear-gradient(45deg, #ffa2c7 0%,#6d0a3b 100%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+  }
+  
+  h1 {
+    color: var(--branca);
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
