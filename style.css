@@ -2,7 +2,7 @@
 
 body {
     align-items: center;
-    background: linear-gradient(Purple);
+    background: linear-gradient(Purple, pink, white);
   }
 
 li {
