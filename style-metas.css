@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
 
 :root{
-    --cor-de-fundo: #56009c;
+    --cor-de-fundo: linear-gradient(rgb(162, 91, 255), rgb(94, 6, 145), rgb(219, 192, 255));
     --roxo: #9b3ce9;
     --branco: #FFFFFF;
     --botao-ativo: #8b3097;
