@@ -12,7 +12,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Cookie display',sans-serif;
+    font-family: 'Cookie&display',sans-serif;
 }
 
 .conteudo-principal{
@@ -32,7 +32,7 @@ body{
 }
 
 .titulo-principal span {
-    font-family: "Cookie display",sans-serif;
+    font-family: "Cookie&display",sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
