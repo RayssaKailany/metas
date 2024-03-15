@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Kaushan+Script&family=Playball&display=swap');
 
 :root{
     --cor-de-fundo: #4e0058;
@@ -12,7 +12,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Cookie&display',sans-serif;
+    font-family: 'Kaushan Script',sans-serif;
 }
 
 .conteudo-principal{
@@ -32,7 +32,7 @@ body{
 }
 
 .titulo-principal span {
-    font-family: "Cookie&display",sans-serif;
+    font-family: "Kaushan Script",sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
