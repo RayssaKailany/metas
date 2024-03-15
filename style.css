@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Playball&display=swap');
 body {
     align-items: center;
     background: linear-gradient(rgb(162, 91, 255), rgb(94, 6, 145), rgb(219, 192, 255));
   }
 
 li{
-    font-family: Dancing Script;
+    font-family: Cookie&family ;
 }
