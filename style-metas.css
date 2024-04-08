@@ -11,7 +11,7 @@
 
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--roxo);
+    color: var(--branco);
     font-family: 'Marck Script',sans-serif;
 }
 
@@ -34,7 +34,7 @@ body{
 .titulo-principal span {
     font-family: "Marck Script",sans-serif;
     background-color: var(--botao-inativo);
-    color: var(--branco);
+    color: var(--roxo);
     display: flex;
     justify-content: center;
     padding: 1em;
