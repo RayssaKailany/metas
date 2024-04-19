@@ -96,4 +96,11 @@ body{
         color: var(--roxo);
         text-transform: uppercase;
     }
-        
+    .contador{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        font-size: 30px;
+        margin: 0;
+        color: var(--roxo);
+    }
