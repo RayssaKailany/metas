@@ -32,6 +32,10 @@ body{
 }
 
 .titulo-principal span {
+    color: var(--roxo);
+}
+
+.botao {
     font-family: "Marck Script",sans-serif;
     background-color: var(--botao-inativo);
     color: var(--roxo);
